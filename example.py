@@ -36,4 +36,4 @@ class ArithmeticPair:
         Compute :math:`x / y`.
         """
         return self.x / self.y
-   
+    
