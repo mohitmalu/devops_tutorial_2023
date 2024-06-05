@@ -25,6 +25,7 @@ class ArithmeticPair:
         """
         return self.x - self.y
 
+
     def product(self):
         """
         Compute :math:`x * y`.
